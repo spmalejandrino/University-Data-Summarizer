@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=University
+comment0.text=\r\n\ @author\ (Sy\ Alejandrino)\r\n\r\n
+comment1.params=
+comment1.target=University()
+comment1.text=\r\n\ Constructors\ for\ the\ class\ University\r\n
+comment2.params=s\ f\ t
+comment2.target=University(int,\ int,\ double)
+comment3.params=newNumberS
+comment3.target=void\ setNumberOfStudents(int)
+comment3.text=\r\n\ Mutator\ methods\r\n
+comment4.params=newNumberF
+comment4.target=void\ setNumberOfFaculty(int)
+comment5.params=newTuition
+comment5.target=void\ setTuition(double)
+comment6.params=
+comment6.target=int\ getNumberOfStudents()
+comment6.text=\r\n\ Accessor\ methods\r\n
+comment7.params=
+comment7.target=int\ getNumberofFaculty()
+comment8.params=
+comment8.target=double\ tuition()
+numComments=9
